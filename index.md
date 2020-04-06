@@ -9,7 +9,7 @@
 - California Institute of Technology Fall 2020 ---
     - Bioengineering Ph.D
 
-### Proejcts
+### Projects
 [Total Biosynthesis of Cannabinoids in yeast](/sample_page)
 <img src="images/cannabis.png?raw=true"/>
 
