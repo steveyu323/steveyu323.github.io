@@ -9,15 +9,24 @@
 - California Institute of Technology Fall 2020 ---
     - Bioengineering Ph.D
 
-[Project 1 Title](/sample_page)
+### Proejcts
+[Total Biosynthesis of Cannabinoids in yeast](/sample_page)
+<img src="images/cannabis.png?raw=true"/>
+
+---
+[CAGI-EVAL](/pdf/sample_presentation.pdf)
+<img src="images/CBS.PNG?raw=true"/>
+
+---
+[VIPdb](http://example.com/)
+<img src="images/VIPdb.PNG?raw=true"/>
+
+---
+[SCOPe](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[SEURATEXT](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
