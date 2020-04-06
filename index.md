@@ -1,8 +1,13 @@
-## Portfolio
+## About me
 
 ---
 
-### Category Name 1 
+### Education
+
+- UC Berkeley 2016-2020
+    - Bioengineering B.S.
+- California Institute of Technology Fall 2020 ---
+    - Bioengineering Ph.D
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -27,9 +32,3 @@
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
