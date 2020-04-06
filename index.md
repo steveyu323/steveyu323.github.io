@@ -23,11 +23,11 @@
 
 ---
 [SCOPe](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/scope.png?raw=true"/>
 
 ---
 [SEURATEXT](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/seuratext.png?raw=true"/>
 
 ---
 
