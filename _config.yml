@@ -1,7 +1,8 @@
 title: Changhua Yu # your name (or website title) here
 logo: "/images/logo.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm a bioengineering undergraduate researcher at UC Berkeley My research interests lie broadly within the realm of single cell genomics
+  I'm a first year Bioengineering PhD student at Caltech.
+  My research interests lie broadly within the realm of single cell genomics
 
 #  <a href="https://www.linkedin.com/in/changhua-yu-14963310b/"> My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
